@@ -1,0 +1,14 @@
+{
+    "name": "ern-container-publisher-dammy",
+    "version": "1.0.0",
+    "description": "Electrode Native Dammy Container Publisher",
+    "main": "index.js",
+    "keywords": [
+      "ern-container-publisher"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/damian-martinezd/ern-container-publisher-dammy.git"
+    },
+    "license": "Apache-2.0"
+  }
